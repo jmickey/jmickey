@@ -6,7 +6,7 @@
 - Co-organiser [Kubernetes Community Days London](https://kubernetescommunitydays.org/events/2021-london/)
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
 - Organiser [Cloud Native Cambridge](https://www.meetup.com/Cloud-Native-Cambridge/)
-- Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey)
+- Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey))
 
 <!--
 **jmickey/jmickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
