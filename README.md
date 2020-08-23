@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Josh
 
-> Platform Engineering, Software Engineering, Kubenretes, Go, TypeScript, ContainerSec, AppSec
+> Platform Engineering, Software Engineering, Kubernetes, Go, TypeScript, ContainerSec, AppSec
 
 - Senior Software Engineer @ [Snyk](https://snyk.io)
 - Co-organiser [Kubernetes Community Days London](https://kubernetescommunitydays.org/events/2021-london/)
@@ -8,30 +8,14 @@
 - Organiser [Cloud Native Cambridge](https://www.meetup.com/Cloud-Native-Cambridge/)
 - Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey))
 
-<!--
-**jmickey/jmickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### About Me
 
-I'm a software and infrastructure engineer, hobbyist data scientist, photographer, cyclist, and dog owner living in Cambridge, UK. I specialise in container orchestration, software development, continuous delivery, and cloud operations. With over a decade of experience, I have extensive knowledge of a range of technologies within the infrastructure and software engineering spaces, including:
+I'm a software and infrastructure engineer, hobbyist data scientist, photographer, cyclist, mechanical keyboard enthusiast, and dog owner living in Cambridge, UK. I specialise in container orchestration, software development, continuous delivery, and cloud operations. With over a decade of experience, I have extensive knowledge of a range of technologies within the infrastructure and software engineering spaces, including:
 
-* Kubernetes & containers, including Docker
+* Kubernetes & containers
 * AWS cloud administration
-* Linux & Windows operating systems
-* Go, Python, C#, Java programming languages
-* infrastructure as code, with extensive Terraform experience
+* TypeScript, Go, Python, and C# programming languages
+* Infrastructure as Code, with extensive Terraform experience
 * Continuous integration & delivery systems (CircleCI, ConcourseCI, TeamCity)
 * Agile development methodologies (Scrum, Kanban)
 
@@ -39,7 +23,7 @@ I'm current at [Snyk](https://snyk.io) as a senior engineer working on solving c
 
 Occasionally I speak at tech events and meetups, you can see my various slide decks on [Speaker Deck](https://speakerdeck.com/jmickey).
 
-Originally from Perth Australia 🇦🇺, I now live in Cambridge UK 🇬🇧 and work in London. I moved to the UK in December, 2018 while my partner completes her PhD in Cancer Biology at Cambridge University in partnership with the [Cancer Research UK Cambridge Institute](https://www.cancerresearchuk.org/funding-for-researchers/how-we-deliver-research/grand-challenge-award/funded-teams-hannon).
+Originally from Perth Australia 🇦🇺, I now live in Cambridge UK 🇬🇧.
 
 ## Social
 
