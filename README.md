@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Josh
 
-> Platform Engineering, Software Engineering, Kubernetes, Go, TypeScript, ContainerSec, AppSec
+> Platform Engineering, Software Engineering, Kubernetes, Go, Bare Metal, GitOps
 
-- Senior Software Engineer @ [Snyk](https://snyk.io)
-- Co-organiser [Kubernetes Community Days London](https://kubernetescommunitydays.org/events/2021-london/)
+- Teach Lead @ [Weaveworks](https://weave.works)
+- Co-organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
 - Organiser [Cloud Native Cambridge](https://www.meetup.com/Cloud-Native-Cambridge/)
 - Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey))
@@ -14,12 +14,12 @@ I'm a software and infrastructure engineer, hobbyist data scientist, photographe
 
 * Kubernetes & containers
 * AWS cloud administration
-* TypeScript, Go, Python, and C# programming languages
+* Go, TypeScript, Python, and C# programming languages
 * Infrastructure as Code, with extensive Terraform experience
 * Continuous integration & delivery systems (CircleCI, ConcourseCI, TeamCity)
 * Agile development methodologies (Scrum, Kanban)
 
-I'm current at [Snyk](https://snyk.io) as a senior engineer working on solving container and Kubernetes security challenges. Previously I worked at [Condé Nast](https://condenast.com) and [Bankwest](https://bankwest.com.au) solving large and medium scale platform/infrastructure problems.
+I'm currently at [Weaveworks](https://weave.works) as a Tech Lead working on bare metal and edge Kubernetes solutions using [Firecracker MicroVMs](https://firecracker-microvm.github.io/). Previously I worked at [Snyk](https://snyk.io) solving Kubernetes security challenges and [Condé Nast](https://condenast.com) building a large scale global Kubernetes platform.
 
 Occasionally I speak at tech events and meetups, you can see my various slide decks on [Speaker Deck](https://speakerdeck.com/jmickey).
 
