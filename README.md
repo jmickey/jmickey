@@ -2,7 +2,7 @@
 
 > Platform Engineering, Software Engineering, Kubernetes, Go, Bare Metal, GitOps
 
-- Teach Lead @ [Weaveworks](https://weave.works)
+- Tech Lead @ [Weaveworks](https://weave.works)
 - Co-organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
 - Organiser [Cloud Native Cambridge](https://www.meetup.com/Cloud-Native-Cambridge/)
