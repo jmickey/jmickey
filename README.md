@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Josh
 
-> Platform Engineering, Software Engineering, Kubernetes, Go, Bare Metal, GitOps
+> Platform Engineering, Software Engineering, Kubernetes, Go, Terraform, GitOps
 
-- Tech Lead @ [Weaveworks](https://weave.works)
+- Principal Software Engineer @ [Dataminr](https://dataminr.com)
 - Co-organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
 - Organiser [Cloud Native Cambridge](https://www.meetup.com/Cloud-Native-Cambridge/)
@@ -19,7 +19,7 @@ I'm a software and infrastructure engineer, hobbyist data scientist, photographe
 * Continuous integration & delivery systems (CircleCI, ConcourseCI, TeamCity)
 * Agile development methodologies (Scrum, Kanban)
 
-I'm currently at [Weaveworks](https://weave.works) as a Tech Lead working on bare metal and edge Kubernetes solutions using [Firecracker MicroVMs](https://firecracker-microvm.github.io/). Previously I worked at [Snyk](https://snyk.io) solving Kubernetes security challenges and [Condé Nast](https://condenast.com) building a large scale global Kubernetes platform.
+I'm currently at [Dataminr](https://dataminr.com) as a Principal Software Engineer working on developer tooling and deploying & managing Kubernetes at scale. Previously I worked at [Weaveworks](https://weave.works) building GitOps tooling and bare metal and edge Kubernetes solutions using [Firecracker MicroVMs](https://firecracker-microvm.github.io/), [Snyk](https://snyk.io) solving Kubernetes security challenges, and [Condé Nast](https://condenast.com) building a large scale global Kubernetes platform.
 
 Occasionally I speak at tech events and meetups, you can see my various slide decks on [Speaker Deck](https://speakerdeck.com/jmickey).
 
