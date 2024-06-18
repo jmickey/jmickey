@@ -3,14 +3,13 @@
 > Platform Engineering, Software Engineering, Kubernetes, Go, Terraform, GitOps
 
 - Principal Software Engineer @ [Dataminr](https://dataminr.com)
-- Co-organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
+- Organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
-- Organiser [Cloud Native Cambridge](https://www.meetup.com/Cloud-Native-Cambridge/)
 - Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey))
 
 ### About Me
 
-I'm a software and infrastructure engineer, hobbyist data scientist, photographer, cyclist, mechanical keyboard enthusiast, and dog owner living in Cambridge, UK. I specialise in container orchestration, software development, continuous delivery, and cloud operations. With over a decade of experience, I have extensive knowledge of a range of technologies within the infrastructure and software engineering spaces, including:
+I'm a software and infrastructure engineer, hobbyist data scientist, photographer, cyclist, mechanical keyboard enthusiast, and dog owner living in London, UK. I specialise in container orchestration, software development, continuous delivery, and cloud operations. With over a decade of experience, I have extensive knowledge of a range of technologies within the infrastructure and software engineering spaces, including:
 
 * Kubernetes & containers
 * AWS cloud administration
@@ -23,7 +22,7 @@ I'm currently a Principal Software Engineer at [Dataminr](https://dataminr.com) 
 
 Occasionally I speak at tech events and meetups, you can see my various slide decks on [Speaker Deck](https://speakerdeck.com/jmickey).
 
-Originally from Perth Australia 🇦🇺, I now live in Cambridge UK 🇬🇧.
+Originally from Perth Australia 🇦🇺, I now live in London UK 🇬🇧.
 
 ## Social
 
