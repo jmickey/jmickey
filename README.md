@@ -2,7 +2,7 @@
 
 > Platform Engineering, Software Engineering, Kubernetes, Go, Terraform, GitOps
 
-- Principal Software Engineer @ [Dataminr](https://dataminr.com)
+- Senior Principal Software Engineer @ [Dataminr](https://dataminr.com)
 - Organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
 - Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey))
@@ -18,7 +18,7 @@ I'm a software and infrastructure engineer, hobbyist data scientist, photographe
 * Continuous integration & delivery systems (CircleCI, ConcourseCI, TeamCity)
 * Agile development methodologies (Scrum, Kanban)
 
-I'm currently a Principal Software Engineer at [Dataminr](https://dataminr.com) working on developer tooling and deploying & managing Kubernetes at scale. Previously I have worked at [Weaveworks](https://weave.works) on the Weave GitOps Enterprise and [Liquid Metal](https://github.com/weaveworks-liquidmetal) teams, [Snyk](https://snyk.io) solving Kubernetes and container security challenges, and [Condé Nast](https://condenast.com) building a large scale global Kubernetes platform.
+I'm currently a Senior Principal Software Engineer at [Dataminr](https://dataminr.com) working on developer tooling and deploying & managing Kubernetes at scale. Previously I have worked at [Weaveworks](https://weave.works) on the Weave GitOps Enterprise and [Liquid Metal](https://github.com/weaveworks-liquidmetal) teams, [Snyk](https://snyk.io) solving Kubernetes and container security challenges, and [Condé Nast](https://condenast.com) building a large scale global Kubernetes platform.
 
 Occasionally I speak at tech events and meetups, you can see my various slide decks on [Speaker Deck](https://speakerdeck.com/jmickey).
 
