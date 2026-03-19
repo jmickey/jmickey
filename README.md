@@ -4,6 +4,7 @@
 
 - Senior Principal Software Engineer @ [Dataminr](https://dataminr.com)
 - Organiser [Kubernetes Community Days UK](https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/)
+- Kubernetes Release Team - v1.34 & v1.35 Enhancements Team Shadow | v1.36 Enhancements Team Lead
 - Co-organiser [Cloud Native London](https://cloudnativelon.com)
 - Occasional conference speaker ([see my past talks](https://speakerdeck.com/jmickey))
 
